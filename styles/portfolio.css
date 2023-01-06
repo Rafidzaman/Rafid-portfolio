@@ -1,0 +1,167 @@
+* {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+.text-primary {
+    color: rgb(253, 110, 10);
+}
+.header{
+    background-color: #FFF8F3;
+    background-image:url('../images/header_bg.png') , url('../images/developer.png')  ;
+    background-repeat: no-repeat;
+    background-position: bottom right, left;
+    background-size: auto, 90px;
+}
+.About-Me{
+    width: 1140px;
+    height: 550px;
+    background: #FFF8F3;
+    border-radius: 10px;
+    border: 2px solid #FFF8F3;
+    margin: 0px 230px;
+    margin-top: 130px;
+    margin-bottom: 130px;
+    text-align: center;
+
+}
+.Abt-me{
+    height: 48px;
+    font-weight: 700;
+    font-size: 35px;
+    margin:130px 450px 30px 450px ;
+}
+.self-desc{
+    width: 827px;
+    height: 120px;
+    font-weight: 400;
+    font-size: 18px;
+    margin: 30px 150px 30px 179px;
+}
+.list-ul{
+    width: 800px;
+     height: 60px;
+    list-style: none;
+    display: flex;
+    font-weight: 400;
+    font-size: 20px;
+    margin: 30px 195px 131px 179px;
+}
+#li-1{
+    width: 118px;
+    height: 60px;
+   margin: 30px 50px 131px 0px;
+}
+#li-2{
+    margin: 30px 50px 131px 50px;  
+}
+#li-3{
+    width: 185px;;
+    margin: 30px 50px 131px 50px; 
+}
+#li-4{
+    margin: 30px 0px 131px 50px; 
+}
+.About-work{
+    width: 167px;
+    height: 48px;
+    font-weight: 700;
+    font-size: 35px;
+    text-align: center;
+    margin: 130px 717px 30px 716px;
+}
+.work-description{
+    text-align: center;
+    margin: 42px 337px 38px 340px;
+}
+
+.btn-primary {
+    font-weight: 700;
+    font-size: 20px;
+    height: 64px;
+    border: 0;
+    padding: 18px 35px;
+    border-radius: 5px;
+   background-color: #FD6E0A;
+   color: #FFFFFF;
+}
+
+.list {
+    margin-top: 25px;
+}
+
+/* Header and navigation styles */
+nav {
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 220px;
+}
+
+nav li {
+    list-style: none;
+    margin-left: 50px;
+    height: 27px;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+nav ul {
+    display: flex;
+    align-items: center;
+}
+
+.nav-title {
+    font-weight: 800;
+    font-size: 45px;
+}
+
+/* banner style */
+.banner {
+    margin: 0 200px;
+    display: flex;
+}
+
+.banner-title {
+    font-weight: 700;
+    font-size: 85px;
+    color: #181818;
+}
+
+.banner-sub-title {
+    font-weight: 600;
+    font-size: 45px;
+}
+
+.banner-description{
+    font-weight: 400;
+    font-size: 18px;
+    color: #757575;
+}
+
+.banner-btn{
+    width: 200px;
+    height: 64px;
+    background-color: #FD6E0A;
+    margin-right: 30px;
+    margin-top: 30px;
+    border-radius: 5px;
+    font-weight: 700;
+    font-size: 20px;
+    color: #FFFFFF;
+    border: none;
+}
+
+.banner1-btn {
+    width: 200px;
+    height: 64px;
+    border-radius: 5px;
+    font-weight: 700;
+    font-size: 20px;
+    text-align: center;
+    color: #FD6E0A;
+    background-color: transparent;
+    border-color: #FD6E0A;
+}
+img{
+    
+}
