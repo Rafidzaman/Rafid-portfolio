@@ -188,8 +188,12 @@ img{
 .skill-description{
    color: #757575;
 }
-.resume-title{
+.section-title{
     text-align: center;
     font-weight: 700;
     font-size: 35px;
+}
+/* resume style */
+.resume-content{
+  display: flex;
 }
